@@ -1,0 +1,77 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***TÜRKİYE Ulusal FAVORILER***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,360 TV m3u8 origin.live 640*360
+http://origin.live.web.tv.streamprovider.net/streams/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
+#EXTINF:-1,BUGUN http 720*576
+http://31.186.24.234:8000/37
+#EXTINF:-1,CNBC-e m3u8 origin.live 640*360
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
+#EXTINF:-1,D HD -1280*720 m3u8
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,DOST TV http 720*576
+http://31.186.24.234:8000/40
+#EXTINF:-1,E2 m3u8 ailetv
+http://edge.ailetv.net/org9/e2_me/playlist.m3u8
+#EXTINF:-1,HABERTÜRK m3u8 -480*360
+http://live-ciner.mncdn.net/haberturk/haberturk2/HasBahCa.m3u8
+#EXTINF:-1,İMC TV m3u8 origin.live 640*360
+http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
+#EXTINF:-1,IMEDI TV http 720*576
+http://31.186.24.234:8000/5
+#EXTINF:-1,KANAL 24 http 720*576
+http://31.186.24.234:8000/92
+#EXTINF:-1,KANAL 5 http 720*576
+http://31.186.24.234:8000/46
+#EXTINF:-1,KANAL D HD m3u8 1280*720
+http://bilgidiyari.net/iptv/tr/HasBahCa_KANALD_HD.m3u8
+#EXTINF:-1,KANAL TÜRK m3u8 1280*783
+http://kanalturk.ercdn.net/er/kanalturk1/HasBahCa.m3u8
+#EXTINF:-1,KANALTURK http 720*576
+http://31.186.24.234:8000/36
+#EXTINF:-1,KARDELEN TV
+http://31.186.24.234:8000/38
+#EXTINF:-1,MEHTAP TV http 720*576
+http://31.186.24.234:8000/10
+#EXTINF:-1,OLAY TV  rtmp 640*360
+rtmp://s01.speednext.com:1935/olaytv/olaytv
+#EXTINF:-1,PLANET COCUK http 720*576
+http://31.186.24.234:8000/26
+#EXTINF:-1,Planet Çocuk m3u8 ailetv
+http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
+#EXTINF:-1,S HABER TV http 720*576
+http://31.186.24.234:8000/11
+#EXTINF:-1,SAMANYOLU
+http://bilgidiyari.net/iptv/tr/HasBahCa_SAMANYOLU.m3u8
+#EXTINF:-1,SEMERKAND TV http 720*576
+http://31.186.24.234:8000/24
+#EXTINF:-1,STV AVRUPA http 720*576
+http://31.186.24.234:8000/9
+#EXTINF:-1,TRT 1 http 720*576
+http://31.186.24.234:8000/27
+#EXTINF:-1,TRT BELGESEL m3u8 -640*480
+http://sol.trtcdn.com/tv/trtbelgesel/trtbelgesel_3/HasBahCa.m3u8
+#EXTINF:-1,TRT COCUK http 720*576
+http://31.186.24.234:8000/31
+#EXTINF:-1,TRT HABER http 720*576
+http://31.186.24.234:8000/28
+#EXTINF:-1,TRT MUZIK http 720*576
+http://31.186.24.234:8000/30
+#EXTINF:-1,TRT SPOR http 720*576
+http://31.186.24.234:8000/33
+#EXTINF:-1,TRT TURK http 720*576
+http://31.186.24.234:8000/29
+#EXTINF:-1,TV 2000 http 720*576
+http://31.186.24.234:8000/45
+#EXTINF:-1,TV 4 m3u8 origin.live 640*360
+http://origin.live.web.tv.streamprovider.net/streams/ffbc4ac453d1a5a599313cd0e2bdc50d/index.m3u8
+#EXTINF:-1,TV 8 int m3u8 ailetv
+http://edge.ailetv.net/org4/tv8_me/playlist.m3u8
+#EXTINF:-1,TV EM m3u8
+http://mn-l.mncdn.com/tvem_live/tvem3/HasBahCa.m3u8
+#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#EXTINF:-1,VIVA TV http 720*576
+http://31.186.24.234:8000/19
+#EXTINF:-1,YUMURCAK TV http 720*576
+http://31.186.24.234:8000/12
