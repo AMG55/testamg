@@ -19,6 +19,8 @@ http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:0,KANAL D
 http://212.224.108.85/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,Kanal D HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #EXTINF:0,SHOW TV
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:0,KANAL 7
