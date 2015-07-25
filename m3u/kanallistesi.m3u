@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,TV8
+http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1348996191.m3u8
+#EXTINF:-1,HK:CNN Türk
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1, BUGUN TV
+http://yayin5.canlitv.com:1935/live/buguntv/playlist.m3u8
 #EXTINF:0,TRT 1
 http://origin.live.web.tv.streamprovider.net/streams/b5306512cde2565f1566ad35c241674c_live_0_0/index.m3u8
 #EXTINF:0,TRT HABER
